@@ -4,6 +4,8 @@
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/AmirShaked.wintitle-extended)](https://marketplace.visualstudio.com/items?itemName=AmirShaked.wintitle-extended)
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/AmirShaked.wintitle-extended)](https://marketplace.visualstudio.com/items?itemName=AmirShaked.wintitle-extended&ssr=false#review-details)
 
+[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=AmirShaked.wintitle-extended) | [GitHub Repository](https://github.com/amirshk/wintitle-extended)
+
 Appends the current Git branch name and optional custom name to the VSCode window title, making it easier to identify which branch and project you're working on across multiple VSCode windows.
 
 ## Why WinTitle Extended?
