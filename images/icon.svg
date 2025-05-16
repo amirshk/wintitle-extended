@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect width="128" height="128" fill="#2d2d2d" rx="10" ry="10"/>
+  <circle cx="42" cy="64" r="8" fill="#c80000"/>
+  <path d="M42 40 L42 56" stroke="#c80000" stroke-width="4"/>
+  <path d="M42 72 L42 88" stroke="#c80000" stroke-width="4"/>
+  <path d="M42 64 L90 64" stroke="#c80000" stroke-width="4"/>
+  <path d="M80 54 L90 64 L80 74" stroke="#c80000" stroke-width="4" fill="none"/>
+  <text x="64" y="40" font-family="Arial" font-size="14" fill="#ffffff" text-anchor="middle">Branch Title</text>
+  <text x="64" y="100" font-family="Arial" font-size="12" fill="#ffffff" text-anchor="middle">Extension</text>
+</svg>

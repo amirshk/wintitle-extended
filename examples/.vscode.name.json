@@ -1,0 +1,4 @@
+{
+  "customName": "Engineer #2",
+  "titleFormat": "${rootName} [${branchName}] - ${customName}"
+}
