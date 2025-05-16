@@ -37,15 +37,6 @@ When you're deep in a coding flow, context switching between windows can break y
 3. Search for "WinTitle Extended"
 4. Click Install
 
-### Manual Installation
-
-1. Download the latest `.vsix` file from the [Releases](https://github.com/amirshk/wintitle-extended/releases) page
-2. Open VSCode
-3. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
-4. Click on the "..." menu in the top-right corner
-5. Select "Install from VSIX..."
-6. Navigate to and select the downloaded `.vsix` file
-
 ### For Development
 
 ```bash
@@ -179,18 +170,6 @@ Contributions are welcome! Please follow these simple steps:
 3. Create a Pull Request
 
 Please ensure your code follows the existing style and includes appropriate documentation.
-
-### Commit Messages
-
-Follow the conventional commits format:
-- `feat:` for new features
-- `fix:` for bug fixes
-- `docs:` for documentation changes
-- `test:` for changes to tests
-- `refactor:` for refactoring code without changing functionality
-- `chore:` for changes to the build process, etc.
-
-Example: `feat: add custom title format support`
 
 ## License
 
