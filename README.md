@@ -131,6 +131,7 @@ The extension provides the following commands (accessible via Command Palette - 
 
 - In multi-root workspaces, only the first folder's Git information is used
 - The extension may take a moment to activate when VSCode starts
+- The extension modifies the `window.title` parameter in your `.vscode/settings.json` or `.code-workspace` file, which may result in frequent changes to these files
 
 ## Troubleshooting
 
