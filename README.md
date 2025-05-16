@@ -37,26 +37,14 @@ When you're deep in a coding flow, context switching between windows can break y
 3. Search for "WinTitle Extended"
 4. Click Install
 
-### For Development
+### Manual Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/amirshk/wintitle-extended.git
-cd wintitle-extended
-
-# Install dependencies
-npm install
-
-# Compile the extension
-npm run compile
-
-# Package the extension
-npm install -g @vscode/vsce
-vsce package
-
-# Install the packaged extension
-code --install-extension wintitle-extended-*.vsix
-```
+1. Download the latest `.vsix` file from the [Releases](https://github.com/amirshk/wintitle-extended/releases) page
+2. Open VSCode
+3. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
+4. Click on the "..." menu in the top-right corner
+5. Select "Install from VSIX..."
+6. Navigate to and select the downloaded `.vsix` file
 
 ## Usage
 
@@ -143,8 +131,8 @@ The extension provides the following commands (accessible via Command Palette - 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/vscode-branch-title-extension.git
-cd vscode-branch-title-extension
+git clone https://github.com/amirshk/wintitle-extended.git
+cd wintitle-extended
 
 # Install dependencies
 npm install
@@ -153,7 +141,8 @@ npm install
 npm run compile
 
 # Package the extension
-npm run package
+npm install -g @vscode/vsce
+vsce package
 ```
 
 To debug the extension:
