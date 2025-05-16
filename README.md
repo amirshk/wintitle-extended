@@ -171,24 +171,13 @@ To debug the extension:
 
 ## Contributing
 
-Contributions are welcome! Please follow these guidelines:
+Contributions are welcome! Please follow these simple steps:
 
-### Branching Strategy
+1. Fork the repository
+2. Make your changes
+3. Create a Pull Request
 
-- `main`: Production-ready code
-- `develop`: Integration branch for features
-- Feature branches: Create from `develop` with the format `feature/feature-name`
-- Bugfix branches: Create from `develop` with the format `bugfix/bug-description`
-
-### Pull Request Process
-
-1. Create a branch from `develop` for your feature or bugfix
-2. Make your changes, following the coding standards
-3. Add or update tests as necessary
-4. Update documentation to reflect any changes
-5. Submit a pull request to the `develop` branch
-6. Ensure CI tests pass
-7. Address any feedback from code reviews
+Please ensure your code follows the existing style and includes appropriate documentation.
 
 ### Commit Messages
 
@@ -206,11 +195,4 @@ Example: `feat: add custom title format support`
 
 This extension is licensed under the [MIT License](LICENSE).
 
-## Release Notes
-
-### 1.0.0
-
-- Initial release
-- Window title integration with Git branch name
-- Status bar toggle functionality
-- Graceful handling of non-Git folders
+For detailed release notes, please see the [CHANGELOG.md](CHANGELOG.md) file.
