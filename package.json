@@ -2,7 +2,7 @@
   "name": "wintitle-extended",
   "displayName": "WinTitle Extended",
   "description": "Appends the current Git branch name and optional custom name to the VSCode window title.",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "publisher": "amirshaked",
   "author": {
     "name": "Amir Shaked"

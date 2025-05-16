@@ -2,6 +2,13 @@
 
 All notable changes to the "WinTitle Extended" extension will be documented in this file.
 
+## [1.2.4] - 2025-05-16
+
+### Changed
+- Improved README.md for clarity and consistency
+- Added VS Code Marketplace and GitHub repository links
+- Added known issue about window.title parameter changes
+
 ## [1.2.3] - 2025-05-16
 
 ### Changed
